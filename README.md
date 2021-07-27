@@ -4,5 +4,7 @@ For my Robotics Masters project I designed, developed, and ran an experiment wit
 The code was not my property so is not shown in this repository.
 
 Files in repository:
-    Ethohand II - FINAL PRESENTATION: Presentation of the project with images and videos, 
+
+    Ethohand II - FINAL PRESENTATION: Presentation of the project with images and videos,
+    
     Ethohand II Development and control of a dexterous robotic hand: Report/paper written for the project
